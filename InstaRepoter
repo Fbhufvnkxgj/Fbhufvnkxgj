@@ -1,0 +1,12 @@
+apt update 
+apt upgrade 
+pkg install git 
+pkg install python -y
+pkg install python2
+gil clone https://git hub.com/crevils/InstaReport
+cd instaReopr
+ls
+pip install -r requirements.txt
+pip install colorama
+pip install requests
+python ReportBot.py
